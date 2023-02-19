@@ -1,2 +1,2 @@
 # todo_list
-Maintain a list od ToDos
+Maintain a list of ToDos using your own GUI design
